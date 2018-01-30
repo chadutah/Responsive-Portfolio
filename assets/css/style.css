@@ -247,6 +247,9 @@ input[type=submit] {
   .container {
     max-width: 580px;
   }
+  .sidebar {
+    max-width: 580px;
+  }
   
 }
 @media only screen and (max-width: 640px) {
